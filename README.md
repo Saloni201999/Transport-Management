@@ -35,3 +35,4 @@ At the  front-end I have used html, jsp and javascript.
 User Interface Priorities
 1.	Professional look and feel
 2.	Use of AJAX atleast with all registration forms and with every search option and at the id of each searched result with onmouseover event.
+UML Based Diagram for the Transport System:
